@@ -2,8 +2,8 @@
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"food": 1,
-		"turnsToBuild": 7,
+		"food": 2000,
+		"turnsToBuild": 15,
 		"techRequired": "Agriculture",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {"food": 1}
@@ -20,8 +20,8 @@
 	{
 		"name": "Mine",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"production": 1,
-		"turnsToBuild": 7,
+		"production": 2000,
+		"turnsToBuild": 15,
 		"techRequired": "Mining",
 		"improvingTech": "Chemistry",
 		"improvingTechStats": {"production": 1}
@@ -29,7 +29,7 @@
 	{
 		"name": "Trading post",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
-		"gold": 1,
+		"gold": 100,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
 		"improvingTech": "Economics",
@@ -60,7 +60,7 @@
 	{
 		"name": "Plantation",
 		"turnsToBuild": 6,
-		"gold": 1,
+		"gold": 50,
 		"techRequired": "Calendar",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {"food": 1}
@@ -144,7 +144,7 @@
 	// Great Person improvements
 	{
 		"name": "Academy",
-		"science": 8,
+		"science": 2000,
 		"improvingTech": "Scientific Theory",
 		"improvingTechStats": {"science": 2}
 	},
