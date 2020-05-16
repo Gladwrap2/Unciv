@@ -119,7 +119,7 @@
 	},
 	{
 		"name": "Barracks",
-		"xpForNewUnits": 15,
+		"xpForNewUnits": 2000,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Bronze Working"
