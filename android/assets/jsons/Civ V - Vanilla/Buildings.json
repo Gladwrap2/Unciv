@@ -138,7 +138,7 @@
 		"name": "Krepost",
 		"replaces": "Barracks",
 		"uniqueTo": "Russia",
-		"xpForNewUnits": 15,
+		"xpForNewUnits": 2000,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Culture and Gold costs of acquiring new tiles reduced by 25% in this city"],
